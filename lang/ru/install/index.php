@@ -1,4 +1,4 @@
-<?
+<?php
 $MESS ['COOKIESSTUDIO_CURRENCY_MODULE_NAME'] = "Курс валют";
 $MESS ['COOKIESSTUDIO_CURRENCY_MODULE_DESCRIPTION'] = "Модуль, который добавляет новую сущность - курсы валют. Имеет функционал для загрузки и для вывода информации о курсах валют.";
 $MESS ['COOKIESSTUDIO_CURRENCY_INSTALL_TITLE'] = "Установка модуля работы с курсов валют";

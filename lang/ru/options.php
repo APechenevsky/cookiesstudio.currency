@@ -1,4 +1,4 @@
-<?
+<?php
 $MESS["COOKIESSTUDIO_CURRENCY_TAB_SET"] = "Управление";
 $MESS["COOKIESSTUDIO_CURRENCY_TAB_SET_ALT"] = "Управление валютами";
 $MESS["COOKIESSTUDIO_CURRENCY_SAVE"] = "Изменить";

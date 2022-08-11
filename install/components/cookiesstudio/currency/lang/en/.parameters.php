@@ -1,4 +1,4 @@
-<?
+<?php
 $MESS["COOKIESSTUDIO_CURRENCY_ASC"] = "Ascending";
 $MESS["COOKIESSTUDIO_CURRENCY_DESC"] = "Descending";
 $MESS["COOKIESSTUDIO_CURRENCY_FCODE"] = "Currency Code";
